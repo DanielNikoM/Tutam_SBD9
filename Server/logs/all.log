@@ -1,0 +1,92 @@
+2024-05-19 15:36:53:3653 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 15:37:18:3718 [35mhttp[39m: [35m::1 GET / 404 139 - 1.595 ms[39m
+[35m[39m
+2024-05-19 15:37:20:3720 [35mhttp[39m: [35m::1 GET / 404 139 - 0.691 ms[39m
+[35m[39m
+2024-05-19 15:37:45:3745 [35mhttp[39m: [35m::1 GET / 404 139 - 0.281 ms[39m
+[35m[39m
+2024-05-19 15:39:58:3958 [35mhttp[39m: [35m::1 POST /?title=test&content=halo123 404 140 - 0.280 ms[39m
+[35m[39m
+2024-05-19 15:40:48:4048 [35mhttp[39m: [35m::1 POST /?title=test&content=halo123 404 140 - 0.224 ms[39m
+[35m[39m
+2024-05-19 15:41:04:414 [35mhttp[39m: [35m::1 POST /?title=test&content=halooooo 404 140 - 0.217 ms[39m
+[35m[39m
+2024-05-19 15:41:47:4147 [35mhttp[39m: [35m::1 POST /notes/?title=test&content=halooooo 500 33 - 21563.797 ms[39m
+[35m[39m
+2024-05-19 15:41:59:4159 [35mhttp[39m: [35m::1 POST /notes/?title=test&content=halooooo - - - - ms[39m
+[35m[39m
+2024-05-19 15:42:22:4222 [35mhttp[39m: [35m::1 POST /notes?title=test&content=halooooo 500 33 - 21590.651 ms[39m
+[35m[39m
+2024-05-19 15:46:26:4626 [35mhttp[39m: [35m::1 POST /notes 500 33 - 21567.175 ms[39m
+[35m[39m
+2024-05-19 15:49:38:4938 [35mhttp[39m: [35m::1 POST /notes 500 33 - 21623.679 ms[39m
+[35m[39m
+2024-05-19 15:53:09:539 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 15:53:31:5331 [31merror[39m: [31mError connecting to database[39m
+2024-05-19 15:54:23:5423 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 15:54:45:5445 [31merror[39m: [31mError connecting to database[39m
+2024-05-19 15:58:43:5843 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 15:59:05:595 [31merror[39m: [31mError connecting to database[39m
+2024-05-19 16:01:29:129 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 16:01:51:151 [31merror[39m: [31mError connecting to database[39m
+2024-05-19 16:18:22:1822 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 16:18:44:1844 [31merror[39m: [31mError connecting to database[39m
+2024-05-19 16:24:52:2452 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 16:24:53:2453 [31merror[39m: [31mError connecting to database connection is insecure (try using `sslmode=require`)[39m
+2024-05-19 16:25:14:2514 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 16:25:15:2515 [32minfo[39m: [32m🛢 Connected to PostgreSQL database account[39m
+2024-05-19 16:31:36:3136 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 16:31:36:3136 [32minfo[39m: [32m🛢 Connected to PostgreSQL database account[39m
+2024-05-19 16:34:53:3453 [31merror[39m: [31mError updating note: null value in column "title" of relation "notes" violates not-null constraint[39m
+2024-05-19 16:35:26:3526 [31merror[39m: [31mError updating note: null value in column "title" of relation "notes" violates not-null constraint[39m
+2024-05-19 16:35:42:3542 [31merror[39m: [31mError adding note: null value in column "title" of relation "notes" violates not-null constraint[39m
+2024-05-19 16:38:02:382 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 16:38:02:382 [32minfo[39m: [32m🛢 Connected to PostgreSQL database account[39m
+2024-05-19 16:39:50:3950 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 16:39:51:3951 [32minfo[39m: [32m🛢 Connected to PostgreSQL database account[39m
+2024-05-19 16:40:20:4020 [35mhttp[39m: [35m::1 POST /notes 201 128 - 244.142 ms[39m
+[35m[39m
+2024-05-19 18:18:13:1813 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 18:18:13:1813 [32minfo[39m: [32m🛢 Connected to PostgreSQL database account[39m
+2024-05-19 18:19:39:1939 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 18:19:39:1939 [32minfo[39m: [32m🛢 Connected to PostgreSQL database account[39m
+2024-05-19 18:24:43:2443 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 18:24:44:2444 [32minfo[39m: [32m🛢 Connected to PostgreSQL database account[39m
+2024-05-19 18:39:11:3911 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 18:39:12:3912 [32minfo[39m: [32m🛢 Connected to PostgreSQL database account[39m
+2024-05-19 18:45:13:4513 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 18:45:14:4514 [32minfo[39m: [32m🛢 Connected to PostgreSQL database account[39m
+2024-05-19 18:53:38:5338 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 18:53:38:5338 [32minfo[39m: [32m🛢 Connected to PostgreSQL database account[39m
+2024-05-19 18:56:22:5622 [35mhttp[39m: [35m::1 GET / 404 139 - 1.972 ms[39m
+[35m[39m
+2024-05-19 18:56:22:5622 [35mhttp[39m: [35m::1 GET /notes 200 372 - 211.708 ms[39m
+[35m[39m
+2024-05-19 18:56:22:5622 [35mhttp[39m: [35m::1 GET /favicon.ico 404 150 - 0.410 ms[39m
+[35m[39m
+2024-05-19 18:56:26:5626 [35mhttp[39m: [35m::1 GET /notes 200 372 - 25.889 ms[39m
+[35m[39m
+2024-05-19 18:57:22:5722 [35mhttp[39m: [35m::1 PUT /notes/2 200 120 - 250.325 ms[39m
+[35m[39m
+2024-05-19 18:58:02:582 [35mhttp[39m: [35m::1 DELETE /notes/3 204 - - 271.529 ms[39m
+[35m[39m
+2024-05-19 18:58:16:5816 [35mhttp[39m: [35m::1 GET /notes 200 374 - 210.802 ms[39m
+[35m[39m
+2024-05-19 18:58:35:5835 [35mhttp[39m: [35m::1 DELETE /notes/5 204 - - 223.770 ms[39m
+[35m[39m
+2024-05-19 18:58:54:5854 [35mhttp[39m: [35m::1 GET /notes 200 245 - 255.995 ms[39m
+[35m[39m
+2024-05-19 18:59:22:5922 [35mhttp[39m: [35m::1 GET /vite.svg 404 147 - 0.290 ms[39m
+[35m[39m
+2024-05-19 18:59:23:5923 [35mhttp[39m: [35m::1 GET /notes 200 245 - 219.056 ms[39m
+[35m[39m
+2024-05-19 19:00:12:012 [35mhttp[39m: [35m::1 GET / 404 139 - 0.709 ms[39m
+[35m[39m
+2024-05-19 19:11:29:1129 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 19:11:29:1129 [32minfo[39m: [32m🛢 Connected to PostgreSQL database account[39m
+2024-05-19 19:18:04:184 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 19:18:04:184 [32minfo[39m: [32m🛢 Connected to PostgreSQL database account[39m
+2024-05-19 19:43:24:4324 [32minfo[39m: [32m🚀 Server is running and listening on port 8463[39m
+2024-05-19 19:43:25:4325 [32minfo[39m: [32m🛢 Connected to PostgreSQL database account[39m
+2024-05-19 19:43:34:4334 [35mhttp[39m: [35m::1 GET / 404 139 - 3.193 ms[39m
+[35m[39m
